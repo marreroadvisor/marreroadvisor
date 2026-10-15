@@ -1,28 +1,40 @@
+![aeternumintelligencecorp — Software, inteligencia artificial y herramientas digitales](assets/brand.svg)
+
 # Anthony Marrero
 
 **aeternumintelligencecorp** · Bayamón, Puerto Rico
 
-Creo herramientas para organizar documentos y trabajar con inteligencia artificial local, con atención a la privacidad y al uso práctico.
+Desarrollo programas y herramientas digitales para resolver necesidades prácticas. Este perfil reúne mis proyectos de software, inteligencia artificial y automatización, con atención a la privacidad y la facilidad de uso.
 
-## Proyecto destacado
+## Qué encontrarás aquí
 
-### [ScanMac](https://github.com/jessiel212/ScanMac)
+- Aplicaciones y utilidades para el trabajo diario.
+- Herramientas con inteligencia artificial y procesamiento local.
+- Proyectos de código abierto, documentación y nuevas versiones.
 
-Aplicación de código abierto para macOS que reúne una biblioteca de documentos, OCR, herramientas PDF, conversiones y un asistente conectado a modelos locales.
+## Catálogo de programas
 
-- Organización de documentos mediante carpetas y etiquetas.
-- Extracción de texto y conversión a formatos editables.
-- Herramientas para firmar, combinar y reorganizar PDF.
-- Asistente de IA local mediante LM Studio.
+Cada programa tiene su propio repositorio, identidad, documentación y versiones. El catálogo crecerá a medida que publique nuevos proyectos.
 
-[Descargar la versión de prueba](https://github.com/jessiel212/ScanMac/releases) · [Ver la guía](https://github.com/jessiel212/ScanMac/blob/main/docs/GUIA.md) · [Proponer mejoras](https://github.com/jessiel212/ScanMac/issues)
+| Programa | Qué hace | Estado | Enlaces |
+| --- | --- | --- | --- |
+| **[ScanMac](https://github.com/jessiel212/ScanMac)** | Aplicación para macOS con biblioteca de documentos, OCR, edición de PDF, conversiones y asistente de IA local. | Versión de prueba | [Descarga](https://github.com/jessiel212/ScanMac/releases) · [Guía](https://github.com/jessiel212/ScanMac/blob/main/docs/GUIA.md) · [Código](https://github.com/jessiel212/ScanMac) |
 
-## Tecnologías del proyecto
+<details>
+<summary>Ver ScanMac</summary>
 
-Swift · SwiftUI · PDFKit · Apple Vision · Python · LM Studio
+![ScanMac con documentos de demostración](https://raw.githubusercontent.com/jessiel212/ScanMac/main/docs/images/inicio.png)
+
+ScanMac es experimental. Consulta los requisitos y las limitaciones de instalación en su guía antes de descargarlo.
+
+</details>
+
+## Cómo presento mis proyectos
+
+Cada publicación reúne una descripción de su utilidad, capturas con datos de demostración, instrucciones de uso, requisitos y un historial de cambios. Los repositorios indican su licencia y los canales para reportar errores o proponer mejoras.
 
 ## Colaboración
 
-Me interesan las mejoras de accesibilidad, la calidad del OCR y las herramientas locales para documentos. Las ideas, los reportes de errores reproducibles y las contribuciones son bienvenidos en ScanMac.
+Las ideas, las pruebas con datos de ejemplo y las contribuciones son bienvenidas. Para comentar un programa, utiliza la sección **Issues** de su repositorio y explica qué deseas mejorar o los pasos para reproducir un fallo.
 
-La versión actual es experimental. Consulta la guía y las limitaciones antes de instalarla.
+[Explorar todos los repositorios](https://github.com/jessiel212?tab=repositories)
