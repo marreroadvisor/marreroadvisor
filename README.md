@@ -30,6 +30,15 @@ ScanMac es experimental. Consulta los requisitos y las limitaciones de instalaci
 
 </details>
 
+<details>
+<summary>Ver Forensic Mobile Lab</summary>
+
+![Centro de adquisición de Forensic Mobile Lab](https://raw.githubusercontent.com/jessiel212/Forensic-Mobile-Lab/main/docs/images/adquisicion.jpg)
+
+[Ver todas las capturas](https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/CAPTURAS.md). Las vistas de ejemplo utilizan únicamente datos de demostración.
+
+</details>
+
 ## Cómo presento mis proyectos
 
 Cada publicación reúne una descripción de su utilidad, capturas con datos de demostración, instrucciones de uso, requisitos y un historial de cambios. Los repositorios indican su licencia y los canales para reportar errores o proponer mejoras.
