@@ -2,6 +2,8 @@
 
 # Anthony Marrero
 
+[Español](#anthony-marrero) · [English](#english)
+
 **aeternumintelligencecorp** · Bayamón, Puerto Rico
 
 Desarrollo programas y herramientas digitales para resolver necesidades prácticas. Este perfil reúne mis proyectos de software, inteligencia artificial y automatización, con atención a la privacidad y la facilidad de uso.
@@ -39,6 +41,12 @@ ScanMac es experimental. Consulta los requisitos y las limitaciones de instalaci
 
 </details>
 
+## Recorridos visuales y ayuda
+
+[ScanMac · video de 15 segundos](https://github.com/jessiel212/ScanMac/blob/main/docs/videos/scanmac-tour.mp4) · [Forensic Mobile Lab · video de 15 segundos](https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/docs/videos/forensic-tour.mp4)
+
+Los videos presentan capturas con datos de demostración. Cada programa dispone de una [ficha de ScanMac](https://github.com/jessiel212/ScanMac/blob/main/FICHA.md) o [ficha de Forensic Mobile Lab](https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/FICHA.md), formularios de errores y propuestas de mejora. El contacto se realiza por GitHub Issues; el correo personal se mantiene privado.
+
 ## Cómo presento mis proyectos
 
 Cada publicación reúne una descripción de su utilidad, capturas con datos de demostración, instrucciones de uso, requisitos y un historial de cambios. Los repositorios indican su licencia y los canales para reportar errores o proponer mejoras.
@@ -48,3 +56,24 @@ Cada publicación reúne una descripción de su utilidad, capturas con datos de 
 Las ideas, las pruebas con datos de ejemplo y las contribuciones son bienvenidas. Para comentar un programa, utiliza la sección **Issues** de su repositorio y explica qué deseas mejorar o los pasos para reproducir un fallo.
 
 [Explorar todos los repositorios](https://github.com/jessiel212?tab=repositories)
+
+---
+
+## English
+
+### Anthony Marrero · aeternumintelligencecorp
+
+Based in Bayamón, Puerto Rico. I develop software and digital tools for practical needs, with a focus on local AI, privacy and ease of use.
+
+### Software catalog
+
+| Program | Purpose | Requirements | Status |
+| --- | --- | --- | --- |
+| [ScanMac](https://github.com/jessiel212/ScanMac) | Document library, OCR, PDF tools, conversions and a local AI assistant. | macOS14+; Apple Silicon or Intel native app. Optional image engines require Apple Silicon and Python3.12. | Experimental |
+| [Forensic Mobile Lab](https://github.com/jessiel212/Forensic-Mobile-Lab) | Authorized logical acquisition, artifact analysis and integrity verification. | macOS13+; Apple Silicon or Intel native binaries. Automatic iPhone connector optimized for Apple Silicon. | Experimental |
+
+Both apps use local ad-hoc signatures and are not Apple-notarized. macOS may block downloaded copies. Read each project's guide and limitations before installing.
+
+Each repository provides source code, a guide, demonstration screenshots and releases. Contributions and reproducible bug reports using synthetic data are welcome through GitHub Issues. Do not post personal documents, evidence, credentials or signing keys.
+
+[All projects](https://github.com/jessiel212?tab=repositories) · [ScanMac downloads](https://github.com/jessiel212/ScanMac/releases) · [Forensic Mobile Lab downloads](https://github.com/jessiel212/Forensic-Mobile-Lab/releases)
