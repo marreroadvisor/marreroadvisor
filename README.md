@@ -22,6 +22,7 @@ Cada programa tiene su propio repositorio, identidad, documentación y versiones
 | --- | --- | --- | --- |
 | **[ScanMac](https://github.com/jessiel212/ScanMac)** | Aplicación para macOS con biblioteca de documentos, OCR, edición de PDF, conversiones y asistente de IA local. | Versión de prueba | [Descarga](https://github.com/jessiel212/ScanMac/releases) · [Guía](https://github.com/jessiel212/ScanMac/blob/main/docs/GUIA.md) · [Código](https://github.com/jessiel212/ScanMac) |
 | **[Forensic Mobile Lab](https://github.com/jessiel212/Forensic-Mobile-Lab)** | Aplicación para macOS de adquisición lógica autorizada, análisis de artefactos y verificación de integridad. | Versión de prueba | [Descarga](https://github.com/jessiel212/Forensic-Mobile-Lab/releases) · [Guía](https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/GUIA.md) · [Código](https://github.com/jessiel212/Forensic-Mobile-Lab) |
+| **[Codex PDF417 Creator](https://github.com/jessiel212/Codex-PDF417-Creator)** | Generación, lectura y exportación de códigos compatibles, con herramientas de inventario local. | Código disponible | [Guía](https://github.com/jessiel212/Codex-PDF417-Creator/blob/main/GUIA.md) · [Ficha](https://github.com/jessiel212/Codex-PDF417-Creator/blob/main/FICHA.md) · [Código](https://github.com/jessiel212/Codex-PDF417-Creator) |
 
 <details>
 <summary>Ver ScanMac</summary>
@@ -71,9 +72,10 @@ Based in Bayamón, Puerto Rico. I develop software and digital tools for practic
 | --- | --- | --- | --- |
 | [ScanMac](https://github.com/jessiel212/ScanMac) | Document library, OCR, PDF tools, conversions and a local AI assistant. | macOS14+; Apple Silicon or Intel native app. Optional image engines require Apple Silicon and Python3.12. | Experimental |
 | [Forensic Mobile Lab](https://github.com/jessiel212/Forensic-Mobile-Lab) | Authorized logical acquisition, artifact analysis and integrity verification. | macOS13+; Apple Silicon or Intel native binaries. Automatic iPhone connector optimized for Apple Silicon. | Experimental |
+| [Codex PDF417 Creator](https://github.com/jessiel212/Codex-PDF417-Creator) | Generate, read and export supported barcodes; local inventory tools. | macOS13+; Xcode required to build the universal app from source. | Source available |
 
-Both apps use local ad-hoc signatures and are not Apple-notarized. macOS may block downloaded copies. Read each project's guide and limitations before installing.
+ScanMac and Forensic Mobile Lab use local ad-hoc signatures and are not Apple-notarized. macOS may block downloaded copies. Read each project's guide and limitations before installing.
 
-Each repository provides source code, a guide, demonstration screenshots and releases. Contributions and reproducible bug reports using synthetic data are welcome through GitHub Issues. Do not post personal documents, evidence, credentials or signing keys.
+See each repository for source code, guides, available screenshots and downloads. Contributions and reproducible bug reports using synthetic data are welcome through GitHub Issues. Do not post personal documents, evidence, credentials or signing keys.
 
 [All projects](https://github.com/jessiel212?tab=repositories) · [ScanMac downloads](https://github.com/jessiel212/ScanMac/releases) · [Forensic Mobile Lab downloads](https://github.com/jessiel212/Forensic-Mobile-Lab/releases)
