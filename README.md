@@ -1,6 +1,6 @@
-# jessiel212
+# Anthony Marrero
 
-**aeternumintelligencecorp**
+**aeternumintelligencecorp** · Bayamón, Puerto Rico
 
 Creo herramientas para organizar documentos y trabajar con inteligencia artificial local, con atención a la privacidad y al uso práctico.
 
