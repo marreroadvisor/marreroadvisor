@@ -19,6 +19,7 @@ Cada programa tiene su propio repositorio, identidad, documentación y versiones
 | Programa | Qué hace | Estado | Enlaces |
 | --- | --- | --- | --- |
 | **[ScanMac](https://github.com/jessiel212/ScanMac)** | Aplicación para macOS con biblioteca de documentos, OCR, edición de PDF, conversiones y asistente de IA local. | Versión de prueba | [Descarga](https://github.com/jessiel212/ScanMac/releases) · [Guía](https://github.com/jessiel212/ScanMac/blob/main/docs/GUIA.md) · [Código](https://github.com/jessiel212/ScanMac) |
+| **[Forensic Mobile Lab](https://github.com/jessiel212/Forensic-Mobile-Lab)** | Aplicación para macOS de adquisición lógica autorizada, análisis de artefactos y verificación de integridad. | Versión de prueba | [Descarga](https://github.com/jessiel212/Forensic-Mobile-Lab/releases) · [Guía](https://github.com/jessiel212/Forensic-Mobile-Lab/blob/main/GUIA.md) · [Código](https://github.com/jessiel212/Forensic-Mobile-Lab) |
 
 <details>
 <summary>Ver ScanMac</summary>
