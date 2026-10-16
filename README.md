@@ -24,6 +24,8 @@ Cada programa tiene su propio repositorio, identidad, documentación y versiones
 | **[Forensic Mobile Lab](https://github.com/marreroadvisor/Forensic-Mobile-Lab)** | Aplicación para macOS de adquisición lógica autorizada, análisis de artefactos y verificación de integridad. | Versión de prueba | [Descarga](https://github.com/marreroadvisor/Forensic-Mobile-Lab/releases) · [Guía](https://github.com/marreroadvisor/Forensic-Mobile-Lab/blob/main/GUIA.md) · [Código](https://github.com/marreroadvisor/Forensic-Mobile-Lab) |
 | **[Codex PDF417 Creator](https://github.com/marreroadvisor/Codex-PDF417-Creator)** | Generación, lectura y exportación de códigos compatibles, con herramientas de inventario local. | Código disponible | [Guía](https://github.com/marreroadvisor/Codex-PDF417-Creator/blob/main/GUIA.md) · [Ficha](https://github.com/marreroadvisor/Codex-PDF417-Creator/blob/main/FICHA.md) · [Código](https://github.com/marreroadvisor/Codex-PDF417-Creator) |
 
+| **[Descargador Drive](https://github.com/marreroadvisor/Descargador-Drive)** | Descargas autorizadas de Google Drive, filtros por formato e inventario local de PDF. | Versión de prueba | [Descarga](https://github.com/marreroadvisor/Descargador-Drive/releases) · [Guía](https://github.com/marreroadvisor/Descargador-Drive/blob/main/GUIA.md) · [Código](https://github.com/marreroadvisor/Descargador-Drive) |
+
 <details>
 <summary>Ver ScanMac</summary>
 
@@ -74,7 +76,9 @@ Based in Bayamón, Puerto Rico. I develop software and digital tools for practic
 | [Forensic Mobile Lab](https://github.com/marreroadvisor/Forensic-Mobile-Lab) | Authorized logical acquisition, artifact analysis and integrity verification. | macOS13+; Apple Silicon or Intel native binaries. Automatic iPhone connector optimized for Apple Silicon. | Experimental |
 | [Codex PDF417 Creator](https://github.com/marreroadvisor/Codex-PDF417-Creator) | Generate, read and export supported barcodes; local inventory tools. | macOS13+; Xcode required to build the universal app from source. | Source available |
 
-ScanMac and Forensic Mobile Lab use local ad-hoc signatures and are not Apple-notarized. macOS may block downloaded copies. Read each project's guide and limitations before installing.
+| [Descargador Drive](https://github.com/marreroadvisor/Descargador-Drive) | Authorized Google Drive downloads, file filters and local PDF inventory. | macOS 13+; Apple Silicon. | Experimental |
+
+ScanMac, Forensic Mobile Lab and Descargador Drive use local ad-hoc signatures and are not Apple-notarized. macOS may block downloaded copies. Read each project's guide and limitations before installing.
 
 See each repository for source code, guides, available screenshots and downloads. Contributions and reproducible bug reports using synthetic data are welcome through GitHub Issues. Do not post personal documents, evidence, credentials or signing keys.
 
